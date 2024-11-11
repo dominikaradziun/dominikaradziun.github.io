@@ -1,7 +1,7 @@
 ---
 title: "Auditory cues influence the rubber-hand illusion"
 collection: publications
-permalink: /publication/2018-JEP_HPP
+permalink: /publication/2018-JEP-HPP
 excerpt: ''
 date: 2018-07
 venue: 'Journal of Experimental Psychology: Human Perception and Performance'
