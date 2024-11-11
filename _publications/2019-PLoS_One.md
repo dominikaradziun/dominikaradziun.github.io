@@ -2,6 +2,7 @@
 title: "Multisensory correlations—not tactile expectations—determine the sense of body ownership"
 collection: publications
 permalink: /publication/2019-PLoS_One
+category: manuscripts
 excerpt: ''
 date: 2019-02-28
 venue: 'PLoS One'
