@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Profile](/images/bio-profile.jpeg){: .align-right width="300px"}
+![Profile](/images/bio-photo.jpeg){: .align-right width="300px"}
 
 Bio
 
