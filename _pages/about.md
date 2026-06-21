@@ -9,9 +9,9 @@ redirect_from:
 
 ![Profile](/images/bio-photo.jpeg){: .align-right width="300px"}
 
-I am a Postdoctoral Researcher at the [Brain, Body, and Technology Lab](https://www.brainbodytech.com/) at the Donders Institute, Radboud University. My research focusers on how the brain represents the body and how that representation can change, for example, when we interact with tools. To study this, I combine behavioral experiments, neuroimaging, and computational modeling.
+I am a Postdoctoral Researcher at the [Brain, Body, and Technology Lab](https://www.brainbodytech.com/) at the Donders Institute, Radboud University. My research focuses on how the brain represents the body and how that representation can change, for example, when we interact with tools. To study this, I combine behavioral experiments, neuroimaging, and computational modeling.
 
-I completed my PhD from Karolinska Institutet, where I investigated body perception and brain plasticity in both blind and sighted individuals. My doctoral thesis was awarded the [Glushko Dissertation Prize](https://cognitivesciencesociety.org/glushko-dissertation-prize/) from the Cognitive Science Society.
+I completed my PhD at Karolinska Institutet, where I investigated body perception and brain plasticity in both blind and sighted individuals. My doctoral thesis was awarded the [Glushko Dissertation Prize](https://cognitivesciencesociety.org/glushko-dissertation-prize/) from the Cognitive Science Society. You can watch my Glushko Prize talk [here](https://underline.io/events/465/sessions/18086/lecture/99279-body-perception-and-brain-plasticity-in-blind-and-sighted-individuals).
 
 Originally from Poland, my academic journey has taken me through Norway, Sweden, the UK, and now the Netherlands. As a scientist, I feel privileged to ask big questions and mentor students as they grow into researchers themselves.
 
