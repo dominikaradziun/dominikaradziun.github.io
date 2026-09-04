@@ -11,7 +11,7 @@ redirect_from:
 
 I am a computational cognitive neuroscientist studying how the brain builds models of the self and the world, and how these models change when sensory experience changes.
 
-In October 2026, I will join the [Crossmodal Perception and Plasticity Lab](https://cpplab.be/) at UCLouvain as an F.R.S.-FNRS Chargée de recherches fellow, where I will study why congenital blindness may protect against schizophrenia, and what this can teach us about resilience and vulnerability in mental health.
+In October 2026, I will join the [Crossmodal Perception and Plasticity Lab](https://cpplab.be/) at UCLouvain as an F.R.S.-FNRS Chargée de recherche fellow, where I will study why congenital blindness may protect against schizophrenia, and what this can teach us about resilience and vulnerability in mental health.
 
 Previously, I was a Postdoctoral Researcher at the [Brain, Body, and Technology Lab](https://www.brainbodytech.com/) at the Donders Institute, Radboud University.
 
