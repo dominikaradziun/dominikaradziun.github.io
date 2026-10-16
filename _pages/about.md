@@ -19,4 +19,4 @@ Originally from Poland, my academic journey has taken me through Norway, Sweden,
 
 I am always happy to hear from students and early-career researchers interested in my work or in navigating their path in academia. Please feel free to reach out by email!
 
-[Email](dominika.radziun@uclouvain.be)     [Google Scholar](https://scholar.google.pl/citations?user=HygzNoQAAAAJ)      [Bluesky](https://bsky.app/profile/nikaradziun.bsky.social)     [LinkedIn](https://www.linkedin.com/in/dominika-radziun-40802b116/)
+[Email](mailto:dominika.radziun@uclouvain.be)     [Google Scholar](https://scholar.google.pl/citations?user=HygzNoQAAAAJ)      [Bluesky](https://bsky.app/profile/nikaradziun.bsky.social)     [LinkedIn](https://www.linkedin.com/in/dominika-radziun-40802b116/)
